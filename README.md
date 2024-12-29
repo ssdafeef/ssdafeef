@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 I'm currently working on building a portfolio website<br>📚 I’m currently learning JavaScript and Python<br>
+👩🏻‍💻 I'm currently working on building a portfolio website<br>
 
 
 ## 🌐 Socials:
